@@ -1,0 +1,10 @@
+.changeButton {
+    background-color: rgb(150, 132, 95);
+    border: 1px solid black;
+
+}
+
+.changeButton:hover {
+    background-color: rgb(65, 65, 65);
+    color: rgb(60, 155, 192);
+}
